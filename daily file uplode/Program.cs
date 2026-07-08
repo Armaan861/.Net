@@ -1,7 +1,11 @@
-﻿Console.WriteLine("Name :-Armaan Gupta");
-Console.WriteLine("Branch:- Computer Science Engineeering");
-Console.WriteLine("College:- SSGMCE");
+using System;
 
-
-First f = new First();
-f.display();
+class Program
+{
+    static void Main()
+    {
+        // Collection.display();
+        //Array.DisplayArray();
+        CLass_Object.display1();
+    }
+}
