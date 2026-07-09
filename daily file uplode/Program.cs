@@ -1,11 +1,3 @@
-using System;
-
-class Program
-{
-    static void Main()
-    {
-        // Collection.display();
-        //Array.DisplayArray();
-        CLass_Object.display1();
-    }
-}
+﻿/*// See https://aka.ms/new-console-
+// template for more information
+Console.WriteLine("Hello, World!");*/
