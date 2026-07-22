@@ -1,32 +1,6 @@
-using _22JULY_001_2026.Models;
-using Microsoft.AspNetCore.Mvc;
-using System.Diagnostics;
-
-namespace _22JULY_001_2026.Controllers
+﻿namespace _21JUL2026
 {
-    public class HomeController : Controller
+    public class HomeController
     {
-        //display Form
-        [HttpGet]
-        public IActionResult Index()
-        {
-            return View();
-        }
-
-        //recive form data
-        [HttpPost]
-        public ActionResult Index(Stationary stationary)
-        {
-            if (ModelState.IsValid)
-            {
-                //normally save to db
-                return Content($"StationaryName : {stationary.Name}, " + $" Price : {stationary.Price}," + $" Category : {stationary.Category}," + $" Stock : {stationary.Stock}");
-            }
-            else
-            {
-                return View(stationary);
-            }
-
-        }
     }
 }
