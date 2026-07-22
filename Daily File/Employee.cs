@@ -1,27 +1,33 @@
-// This is an example of an Encapuslation  FIle 1 Employee 2 OOPS
-//  Encapsulation : -Encapsulation is the process of wrapping data and methods into a single class and protecting the data by making it private while providing controlled access through properties or methods.
 using System;
+using System.Threading.Channels;
 
-class Employee
+public class Employee
 {
-    private string _empName = "";
-    private double _salary;
-
-    public string EmpName
+    public int Id;
+    public string EmpName;
+    public double MontlySalary;
+    public Employee(int i, string e, double s)
     {
-        get { return _empName; }
-        set { _empName = value; }
+        Id = i;
+        EmpName = e;
+        MontlySalary = s;
+
+
     }
 
-    public double Salary
+    double CalculateAnnualSalary()
     {
-        get { return _salary; }
-        set
-        {
-            if (value >= 100)
-            {
-                _salary = value;
-            }
-        }
+        return MontlySalary = 12;
+    }
+
+
+    public void Display()
+    {
+        Console.WriteLine("Id :" + Id);
+        Console.WriteLine("Name :" + EmpName);
+        Console.WriteLine("Mountly :" + MontlySalary);
+        Console.WriteLine("Anuall :" + CalculateAnnualSalary());
+
+
     }
 }
