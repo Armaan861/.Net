@@ -1,10 +1,11 @@
-using System;
+﻿using System;
 
 class Program
 {
-    static void Main(string[] args)
+    static void Main()
     {
-        HW01.display();
-        HW02.display2();
+        // HW03.display();
+        HW04.display4();
     }
 }
+
