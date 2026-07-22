@@ -1,7 +1,2 @@
-﻿Console.WriteLine("Name :-Armaan Gupta");
-Console.WriteLine("Branch:- Computer Science Engineeering");
-Console.WriteLine("College:- SSGMCE");
-
-
-First f = new First();
-f.display();
+﻿// See https://aka.ms/new-console-template for more information
+Console.WriteLine("Hello, World!");
