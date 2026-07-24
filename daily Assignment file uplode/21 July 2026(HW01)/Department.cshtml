@@ -1,0 +1,26 @@
+﻿@model _21_July_2026_HW01.Models.Employee
+
+@{
+    ViewBag.Title = "Registration Successful";
+}
+
+<div class="alert alert-success mt-4">
+    <h3>Employee Added Successfully</h3>
+</div>
+
+<div class="card mt-3">
+    <div class="card-body">
+        <h4>Registered Employee Summary</h4>
+        <hr />
+        <dl class="dl-horizontal">
+            <dt>@Html.DisplayNameFor(model => model.EmployeeName)</dt>
+            <dd>@Html.DisplayFor(model => model.EmployeeName)</dd>
+
+            <dt>@Html.DisplayNameFor(model => model.Department)</dt>
+            <dd>@Html.DisplayFor(model => model.Department)</dd>
+        </dl>
+    </div>
+</div>
+
+<div class="mt-4">
+    @Html.ActionLink("Proceed to Department Details", "Index", "Department", new { department = Model.Department }, new { @class = "btn btn-success" })</div>

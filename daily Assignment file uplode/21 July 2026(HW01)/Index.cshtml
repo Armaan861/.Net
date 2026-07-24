@@ -1,0 +1,47 @@
+﻿@model _21_July_2026_HW01.Models.Employee
+
+<html>
+
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+</div>
+
+<!DOCTYPE html>
+
+<head>
+    <title>Employee Registration</title>
+</head>
+<body>
+
+    <h2>Employee Registration Form</h2>
+
+    <!-- The form sends data to your MVC Employee Controller's Create action -->
+    <form action="/Home/Index" method="POST">
+        <!-- Employee ID -->
+        <label for="EmployeeId">Employee Id:</label><br>
+        <input type="number" id="EmployeeId" name="EmployeeId" required><br><br>
+
+        <!-- Employee Name -->
+        <label for="EmployeeName">Employee Name:</label><br>
+        <input type="text" id="EmployeeName" name="EmployeeName" required><br><br>
+
+        <!-- Department -->
+        <label for="Department">Department:</label><br>
+        <input type="text" id="Department" name="Department" required><br><br>
+
+        <!-- Salary -->
+        <label for="Salary">Salary ($):</label><br>
+        <input type="number" id="Salary" name="Salary" step="0.01" required><br><br>
+
+        <!-- Email -->
+        <label for="Email">Email Address:</label><br>
+        <input type="email" id="Email" name="Email" required><br><br>
+
+        <!-- Submit Button -->
+        <input type="submit" value="Register Employee">
+
+    </form>
+
+</body>
+</html> 
+
