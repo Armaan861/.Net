@@ -1,0 +1,45 @@
+﻿namespace _23_JULY_2026.Views.Product
+{
+    public class Index
+    {
+@model List<Product>
+
+@{
+    ViewData["Title"] = "Product List";
+}
+
+<h2>Product List</h2>
+
+<table border="1" cellpadding="10" cellspacing="0">
+    <thead>
+        <tr>
+            <th>ID</th>
+            <th>Name</th>
+            <th>Price</th>
+        </tr>
+    </thead>
+    <tbody>
+        @if (Model != null && Model.Count > 0)
+        {
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>@item.Id</td>
+                    <td>@item.Name</td>
+                    <td>$@item.Price</td>
+                </tr>
+            }
+        }
+        else
+        {
+            <tr>
+                <td colspan="3">No products available.</td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<br />
+<a asp-controller="Home" asp-action="Logout">Logout</a>
+    }
+}
