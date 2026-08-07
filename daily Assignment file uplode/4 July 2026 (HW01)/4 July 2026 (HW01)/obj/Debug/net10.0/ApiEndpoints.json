@@ -1,0 +1,81 @@
+[
+  {
+    "ContainingType": "_4_July_2026__HW01_.Controller.CourceController",
+    "Method": "GetAllCources",
+    "RelativePath": "api/Cource",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "_4_July_2026__HW01_.Controller.CourceController",
+    "Method": "AddCource",
+    "RelativePath": "api/Cource",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "cource",
+        "Type": "_4_July_2026__HW01_.Model.Cource",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "_4_July_2026__HW01_.Controller.CourceController",
+    "Method": "GetCource",
+    "RelativePath": "api/Cource/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "_4_July_2026__HW01_.Controller.CourceController",
+    "Method": "UpdateCource",
+    "RelativePath": "api/Cource/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "cource",
+        "Type": "_4_July_2026__HW01_.Model.Cource",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "_4_July_2026__HW01_.Controller.CourceController",
+    "Method": "DeleteCource",
+    "RelativePath": "api/Cource/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
