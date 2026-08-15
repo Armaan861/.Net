@@ -1,0 +1,90 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Armaan Gupta\\source\\repos\\12 Aug 2026\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DB36B777-9087-3936-7B21-E49C2B8A406A}|12 Aug 2026\\12 Aug 2026.csproj|c:\\users\\armaan gupta\\source\\repos\\12 aug 2026\\12 aug 2026\\reposatary\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB36B777-9087-3936-7B21-E49C2B8A406A}|12 Aug 2026\\12 Aug 2026.csproj|solutionrelative:12 aug 2026\\reposatary\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB36B777-9087-3936-7B21-E49C2B8A406A}|12 Aug 2026\\12 Aug 2026.csproj|c:\\users\\armaan gupta\\source\\repos\\12 aug 2026\\12 aug 2026\\migrations\\20260814083528_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB36B777-9087-3936-7B21-E49C2B8A406A}|12 Aug 2026\\12 Aug 2026.csproj|solutionrelative:12 aug 2026\\migrations\\20260814083528_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB36B777-9087-3936-7B21-E49C2B8A406A}|12 Aug 2026\\12 Aug 2026.csproj|c:\\users\\armaan gupta\\source\\repos\\12 aug 2026\\12 aug 2026\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB36B777-9087-3936-7B21-E49C2B8A406A}|12 Aug 2026\\12 Aug 2026.csproj|solutionrelative:12 aug 2026\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB36B777-9087-3936-7B21-E49C2B8A406A}|12 Aug 2026\\12 Aug 2026.csproj|c:\\users\\armaan gupta\\source\\repos\\12 aug 2026\\12 aug 2026\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB36B777-9087-3936-7B21-E49C2B8A406A}|12 Aug 2026\\12 Aug 2026.csproj|solutionrelative:12 aug 2026\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IAuthService.cs",
+              "DocumentMoniker": "C:\\Users\\Armaan Gupta\\source\\repos\\12 Aug 2026\\12 Aug 2026\\Reposatary\\IAuthService.cs",
+              "RelativeDocumentMoniker": "12 Aug 2026\\Reposatary\\IAuthService.cs",
+              "ToolTip": "C:\\Users\\Armaan Gupta\\source\\repos\\12 Aug 2026\\12 Aug 2026\\Reposatary\\IAuthService.cs",
+              "RelativeToolTip": "12 Aug 2026\\Reposatary\\IAuthService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-15T12:34:24.371Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "20260814083528_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\Armaan Gupta\\source\\repos\\12 Aug 2026\\12 Aug 2026\\Migrations\\20260814083528_InitialCreate.cs",
+              "RelativeDocumentMoniker": "12 Aug 2026\\Migrations\\20260814083528_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\Armaan Gupta\\source\\repos\\12 Aug 2026\\12 Aug 2026\\Migrations\\20260814083528_InitialCreate.cs",
+              "RelativeToolTip": "12 Aug 2026\\Migrations\\20260814083528_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-14T08:35:29.219Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\Armaan Gupta\\source\\repos\\12 Aug 2026\\12 Aug 2026\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "12 Aug 2026\\Services\\AuthService.cs",
+              "ToolTip": "C:\\Users\\Armaan Gupta\\source\\repos\\12 Aug 2026\\12 Aug 2026\\Services\\AuthService.cs",
+              "RelativeToolTip": "12 Aug 2026\\Services\\AuthService.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAkwA8AAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-14T08:31:58.057Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Armaan Gupta\\source\\repos\\12 Aug 2026\\12 Aug 2026\\Program.cs",
+              "RelativeDocumentMoniker": "12 Aug 2026\\Program.cs",
+              "ToolTip": "C:\\Users\\Armaan Gupta\\source\\repos\\12 Aug 2026\\12 Aug 2026\\Program.cs",
+              "RelativeToolTip": "12 Aug 2026\\Program.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAIwEsAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-14T08:29:33.733Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
