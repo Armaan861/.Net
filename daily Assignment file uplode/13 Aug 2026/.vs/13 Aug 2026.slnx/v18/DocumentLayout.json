@@ -1,0 +1,262 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Armaan Gupta\\source\\repos\\13 Aug 2026\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4AEF57B8-7990-29E9-9D50-BEDF0144BEB1}|13 Aug 2026\\13 Aug 2026.csproj|c:\\users\\armaan gupta\\source\\repos\\13 aug 2026\\13 aug 2026\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AEF57B8-7990-29E9-9D50-BEDF0144BEB1}|13 Aug 2026\\13 Aug 2026.csproj|solutionrelative:13 aug 2026\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AEF57B8-7990-29E9-9D50-BEDF0144BEB1}|13 Aug 2026\\13 Aug 2026.csproj|c:\\users\\armaan gupta\\source\\repos\\13 aug 2026\\13 aug 2026\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AEF57B8-7990-29E9-9D50-BEDF0144BEB1}|13 Aug 2026\\13 Aug 2026.csproj|solutionrelative:13 aug 2026\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AEF57B8-7990-29E9-9D50-BEDF0144BEB1}|13 Aug 2026\\13 Aug 2026.csproj|c:\\users\\armaan gupta\\source\\repos\\13 aug 2026\\13 aug 2026\\appdbcontext\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AEF57B8-7990-29E9-9D50-BEDF0144BEB1}|13 Aug 2026\\13 Aug 2026.csproj|solutionrelative:13 aug 2026\\appdbcontext\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AEF57B8-7990-29E9-9D50-BEDF0144BEB1}|13 Aug 2026\\13 Aug 2026.csproj|c:\\users\\armaan gupta\\source\\repos\\13 aug 2026\\13 aug 2026\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4AEF57B8-7990-29E9-9D50-BEDF0144BEB1}|13 Aug 2026\\13 Aug 2026.csproj|solutionrelative:13 aug 2026\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AEF57B8-7990-29E9-9D50-BEDF0144BEB1}|13 Aug 2026\\13 Aug 2026.csproj|c:\\users\\armaan gupta\\source\\repos\\13 aug 2026\\13 aug 2026\\repositary\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AEF57B8-7990-29E9-9D50-BEDF0144BEB1}|13 Aug 2026\\13 Aug 2026.csproj|solutionrelative:13 aug 2026\\repositary\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AEF57B8-7990-29E9-9D50-BEDF0144BEB1}|13 Aug 2026\\13 Aug 2026.csproj|c:\\users\\armaan gupta\\source\\repos\\13 aug 2026\\13 aug 2026\\repositary\\icustomerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AEF57B8-7990-29E9-9D50-BEDF0144BEB1}|13 Aug 2026\\13 Aug 2026.csproj|solutionrelative:13 aug 2026\\repositary\\icustomerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AEF57B8-7990-29E9-9D50-BEDF0144BEB1}|13 Aug 2026\\13 Aug 2026.csproj|c:\\users\\armaan gupta\\source\\repos\\13 aug 2026\\13 aug 2026\\repositary\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AEF57B8-7990-29E9-9D50-BEDF0144BEB1}|13 Aug 2026\\13 Aug 2026.csproj|solutionrelative:13 aug 2026\\repositary\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AEF57B8-7990-29E9-9D50-BEDF0144BEB1}|13 Aug 2026\\13 Aug 2026.csproj|c:\\users\\armaan gupta\\source\\repos\\13 aug 2026\\13 aug 2026\\model\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AEF57B8-7990-29E9-9D50-BEDF0144BEB1}|13 Aug 2026\\13 Aug 2026.csproj|solutionrelative:13 aug 2026\\model\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AEF57B8-7990-29E9-9D50-BEDF0144BEB1}|13 Aug 2026\\13 Aug 2026.csproj|c:\\users\\armaan gupta\\source\\repos\\13 aug 2026\\13 aug 2026\\model\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AEF57B8-7990-29E9-9D50-BEDF0144BEB1}|13 Aug 2026\\13 Aug 2026.csproj|solutionrelative:13 aug 2026\\model\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AEF57B8-7990-29E9-9D50-BEDF0144BEB1}|13 Aug 2026\\13 Aug 2026.csproj|c:\\users\\armaan gupta\\source\\repos\\13 aug 2026\\13 aug 2026\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AEF57B8-7990-29E9-9D50-BEDF0144BEB1}|13 Aug 2026\\13 Aug 2026.csproj|solutionrelative:13 aug 2026\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AEF57B8-7990-29E9-9D50-BEDF0144BEB1}|13 Aug 2026\\13 Aug 2026.csproj|c:\\users\\armaan gupta\\source\\repos\\13 aug 2026\\13 aug 2026\\services\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AEF57B8-7990-29E9-9D50-BEDF0144BEB1}|13 Aug 2026\\13 Aug 2026.csproj|solutionrelative:13 aug 2026\\services\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AEF57B8-7990-29E9-9D50-BEDF0144BEB1}|13 Aug 2026\\13 Aug 2026.csproj|c:\\users\\armaan gupta\\source\\repos\\13 aug 2026\\13 aug 2026\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AEF57B8-7990-29E9-9D50-BEDF0144BEB1}|13 Aug 2026\\13 Aug 2026.csproj|solutionrelative:13 aug 2026\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AEF57B8-7990-29E9-9D50-BEDF0144BEB1}|13 Aug 2026\\13 Aug 2026.csproj|c:\\users\\armaan gupta\\source\\repos\\13 aug 2026\\13 aug 2026\\13 aug 2026.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4AEF57B8-7990-29E9-9D50-BEDF0144BEB1}|13 Aug 2026\\13 Aug 2026.csproj|solutionrelative:13 aug 2026\\13 aug 2026.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Armaan Gupta\\source\\repos\\13 Aug 2026\\13 Aug 2026\\Migrations\\20260817165133_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:13 Aug 2026\\Migrations\\20260817165133_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 14,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Armaan Gupta\\source\\repos\\13 Aug 2026\\13 Aug 2026\\AppDbContext\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "13 Aug 2026\\AppDbContext\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Armaan Gupta\\source\\repos\\13 Aug 2026\\13 Aug 2026\\AppDbContext\\AppDbContext.cs",
+              "RelativeToolTip": "13 Aug 2026\\AppDbContext\\AppDbContext.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAA9wBwAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-17T18:15:38.694Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IProductService.cs",
+              "DocumentMoniker": "C:\\Users\\Armaan Gupta\\source\\repos\\13 Aug 2026\\13 Aug 2026\\Repositary\\IProductService.cs",
+              "RelativeDocumentMoniker": "13 Aug 2026\\Repositary\\IProductService.cs",
+              "ToolTip": "C:\\Users\\Armaan Gupta\\source\\repos\\13 Aug 2026\\13 Aug 2026\\Repositary\\IProductService.cs",
+              "RelativeToolTip": "13 Aug 2026\\Repositary\\IProductService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-17T17:20:46.145Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ICustomerService.cs",
+              "DocumentMoniker": "C:\\Users\\Armaan Gupta\\source\\repos\\13 Aug 2026\\13 Aug 2026\\Repositary\\ICustomerService.cs",
+              "RelativeDocumentMoniker": "13 Aug 2026\\Repositary\\ICustomerService.cs",
+              "ToolTip": "C:\\Users\\Armaan Gupta\\source\\repos\\13 Aug 2026\\13 Aug 2026\\Repositary\\ICustomerService.cs",
+              "RelativeToolTip": "13 Aug 2026\\Repositary\\ICustomerService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-17T18:15:34.242Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Armaan Gupta\\source\\repos\\13 Aug 2026\\13 Aug 2026\\Model\\Product.cs",
+              "RelativeDocumentMoniker": "13 Aug 2026\\Model\\Product.cs",
+              "ToolTip": "C:\\Users\\Armaan Gupta\\source\\repos\\13 Aug 2026\\13 Aug 2026\\Model\\Product.cs",
+              "RelativeToolTip": "13 Aug 2026\\Model\\Product.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-17T17:21:31.955Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CustomerService.cs",
+              "DocumentMoniker": "C:\\Users\\Armaan Gupta\\source\\repos\\13 Aug 2026\\13 Aug 2026\\Services\\CustomerService.cs",
+              "RelativeDocumentMoniker": "13 Aug 2026\\Services\\CustomerService.cs",
+              "ToolTip": "C:\\Users\\Armaan Gupta\\source\\repos\\13 Aug 2026\\13 Aug 2026\\Services\\CustomerService.cs",
+              "RelativeToolTip": "13 Aug 2026\\Services\\CustomerService.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAA3wBUAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-17T17:20:09.09Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\Armaan Gupta\\source\\repos\\13 Aug 2026\\13 Aug 2026\\Model\\Customer.cs",
+              "RelativeDocumentMoniker": "13 Aug 2026\\Model\\Customer.cs",
+              "ToolTip": "C:\\Users\\Armaan Gupta\\source\\repos\\13 Aug 2026\\13 Aug 2026\\Model\\Customer.cs",
+              "RelativeToolTip": "13 Aug 2026\\Model\\Customer.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwA8AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-17T17:15:13.407Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\Users\\Armaan Gupta\\source\\repos\\13 Aug 2026\\13 Aug 2026\\Services\\ProductService.cs",
+              "RelativeDocumentMoniker": "13 Aug 2026\\Services\\ProductService.cs",
+              "ToolTip": "C:\\Users\\Armaan Gupta\\source\\repos\\13 Aug 2026\\13 Aug 2026\\Services\\ProductService.cs",
+              "RelativeToolTip": "13 Aug 2026\\Services\\ProductService.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAzwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-17T17:09:38.977Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\Armaan Gupta\\source\\repos\\13 Aug 2026\\13 Aug 2026\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "13 Aug 2026\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\Armaan Gupta\\source\\repos\\13 Aug 2026\\13 Aug 2026\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "13 Aug 2026\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-17T17:03:31.434Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\Armaan Gupta\\source\\repos\\13 Aug 2026\\13 Aug 2026\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "13 Aug 2026\\Services\\AuthService.cs",
+              "ToolTip": "C:\\Users\\Armaan Gupta\\source\\repos\\13 Aug 2026\\13 Aug 2026\\Services\\AuthService.cs",
+              "RelativeToolTip": "13 Aug 2026\\Services\\AuthService.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAkwC0AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-17T17:02:58.141Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IAuthService.cs",
+              "DocumentMoniker": "C:\\Users\\Armaan Gupta\\source\\repos\\13 Aug 2026\\13 Aug 2026\\Repositary\\IAuthService.cs",
+              "RelativeDocumentMoniker": "13 Aug 2026\\Repositary\\IAuthService.cs",
+              "ToolTip": "C:\\Users\\Armaan Gupta\\source\\repos\\13 Aug 2026\\13 Aug 2026\\Repositary\\IAuthService.cs",
+              "RelativeToolTip": "13 Aug 2026\\Repositary\\IAuthService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-17T17:00:46.667Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "13 Aug 2026",
+              "DocumentMoniker": "C:\\Users\\Armaan Gupta\\source\\repos\\13 Aug 2026\\13 Aug 2026\\13 Aug 2026.csproj",
+              "RelativeDocumentMoniker": "13 Aug 2026\\13 Aug 2026.csproj",
+              "ToolTip": "C:\\Users\\Armaan Gupta\\source\\repos\\13 Aug 2026\\13 Aug 2026\\13 Aug 2026.csproj",
+              "RelativeToolTip": "13 Aug 2026\\13 Aug 2026.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-08-17T16:55:40.148Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Armaan Gupta\\source\\repos\\13 Aug 2026\\13 Aug 2026\\appsettings.json",
+              "RelativeDocumentMoniker": "13 Aug 2026\\appsettings.json",
+              "ToolTip": "C:\\Users\\Armaan Gupta\\source\\repos\\13 Aug 2026\\13 Aug 2026\\appsettings.json",
+              "RelativeToolTip": "13 Aug 2026\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-08-17T16:54:09.229Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "20260817165133_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\Armaan Gupta\\source\\repos\\13 Aug 2026\\13 Aug 2026\\Migrations\\20260817165133_InitialCreate.cs",
+              "RelativeDocumentMoniker": "13 Aug 2026\\Migrations\\20260817165133_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\Armaan Gupta\\source\\repos\\13 Aug 2026\\13 Aug 2026\\Migrations\\20260817165133_InitialCreate.cs",
+              "RelativeToolTip": "13 Aug 2026\\Migrations\\20260817165133_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-17T16:51:33.783Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Armaan Gupta\\source\\repos\\13 Aug 2026\\13 Aug 2026\\Program.cs",
+              "RelativeDocumentMoniker": "13 Aug 2026\\Program.cs",
+              "ToolTip": "C:\\Users\\Armaan Gupta\\source\\repos\\13 Aug 2026\\13 Aug 2026\\Program.cs",
+              "RelativeToolTip": "13 Aug 2026\\Program.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAswBcAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-17T16:38:47.898Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
