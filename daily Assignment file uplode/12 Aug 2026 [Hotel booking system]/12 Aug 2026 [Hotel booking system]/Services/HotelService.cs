@@ -1,0 +1,34 @@
+﻿using _12_Aug_2026__Hotel_booking_system_.Data;
+using _12_Aug_2026__Hotel_booking_system_.Models;
+using _12_Aug_2026__Hotel_booking_system_.Repositary;
+namespace _12_Aug_2026__Hotel_booking_system_.Services
+{
+    public class HotelService : IHotelService
+    {
+        private readonly AppDbContext context;
+        public HotelService(AppDbContext context)
+        {
+            this.context = context;
+        }
+        public Hotel AddHotel(Hotel hotel)
+        {
+            context.Hotels.Add(hotel);
+            context.SaveChanges();
+            return hotel;
+        }
+
+      
+
+   
+
+        public Hotel GetHotelById(int id)
+        {
+            return context.Hotels.Find(id);
+        }
+
+        public List<Hotel> GetHotels()
+        {
+            return context.Hotels.ToList();
+        }
+    }
+}
