@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\Armaan Gupta\\OneDrive\\Desktop\\Hospital Management System\\Daily File\\12 Aug 2026\\12 Aug 2026\\12 Aug 2026.csproj": {}
+    "c:\\Users\\Armaan Gupta\\OneDrive\\Desktop\\Hospital Management System\\Daily File\\28  july\\28 july 2026.csproj": {}
   },
   "projects": {
-    "c:\\Users\\Armaan Gupta\\OneDrive\\Desktop\\Hospital Management System\\Daily File\\12 Aug 2026\\12 Aug 2026\\12 Aug 2026.csproj": {
+    "c:\\Users\\Armaan Gupta\\OneDrive\\Desktop\\Hospital Management System\\Daily File\\28  july\\28 july 2026.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Armaan Gupta\\OneDrive\\Desktop\\Hospital Management System\\Daily File\\12 Aug 2026\\12 Aug 2026\\12 Aug 2026.csproj",
-        "projectName": "12 Aug 2026",
-        "projectPath": "c:\\Users\\Armaan Gupta\\OneDrive\\Desktop\\Hospital Management System\\Daily File\\12 Aug 2026\\12 Aug 2026\\12 Aug 2026.csproj",
+        "projectUniqueName": "c:\\Users\\Armaan Gupta\\OneDrive\\Desktop\\Hospital Management System\\Daily File\\28  july\\28 july 2026.csproj",
+        "projectName": "28 july 2026",
+        "projectPath": "c:\\Users\\Armaan Gupta\\OneDrive\\Desktop\\Hospital Management System\\Daily File\\28  july\\28 july 2026.csproj",
         "packagesPath": "C:\\Users\\Armaan Gupta\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Armaan Gupta\\OneDrive\\Desktop\\Hospital Management System\\Daily File\\12 Aug 2026\\12 Aug 2026\\obj\\",
+        "outputPath": "c:\\Users\\Armaan Gupta\\OneDrive\\Desktop\\Hospital Management System\\Daily File\\28  july\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -53,27 +53,9 @@
           "framework": "net10.0",
           "targetAlias": "net10.0",
           "dependencies": {
-            "Microsoft.AspNetCore.Authentication.JwtBearer": {
-              "target": "Package",
-              "version": "[10.0.11, )"
-            },
             "Microsoft.AspNetCore.OpenApi": {
               "target": "Package",
               "version": "[10.0.9, )"
-            },
-            "Microsoft.EntityFrameworkCore": {
-              "target": "Package",
-              "version": "[10.0.11, )"
-            },
-            "Microsoft.EntityFrameworkCore.SqlServer": {
-              "target": "Package",
-              "version": "[10.0.11, )"
-            },
-            "Microsoft.EntityFrameworkCore.Tools": {
-              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
-              "suppressParent": "All",
-              "target": "Package",
-              "version": "[10.0.11, )"
             },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
