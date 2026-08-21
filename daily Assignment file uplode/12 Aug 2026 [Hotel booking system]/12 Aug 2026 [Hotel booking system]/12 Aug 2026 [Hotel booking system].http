@@ -1,0 +1,6 @@
+@_12_Aug_2026__Hotel_booking_system__HostAddress = http://localhost:5232
+
+GET {{_12_Aug_2026__Hotel_booking_system__HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

@@ -1,0 +1,89 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Armaan Gupta\\source\\repos\\4 Aug 2026\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{30B10919-43F3-35CC-AF8C-3EF361E3E977}|4 Aug 2026\\4 Aug 2026.csproj|c:\\users\\armaan gupta\\source\\repos\\4 aug 2026\\4 aug 2026\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30B10919-43F3-35CC-AF8C-3EF361E3E977}|4 Aug 2026\\4 Aug 2026.csproj|solutionrelative:4 aug 2026\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30B10919-43F3-35CC-AF8C-3EF361E3E977}|4 Aug 2026\\4 Aug 2026.csproj|c:\\users\\armaan gupta\\source\\repos\\4 aug 2026\\4 aug 2026\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30B10919-43F3-35CC-AF8C-3EF361E3E977}|4 Aug 2026\\4 Aug 2026.csproj|solutionrelative:4 aug 2026\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30B10919-43F3-35CC-AF8C-3EF361E3E977}|4 Aug 2026\\4 Aug 2026.csproj|c:\\users\\armaan gupta\\source\\repos\\4 aug 2026\\4 aug 2026\\4 aug 2026.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{30B10919-43F3-35CC-AF8C-3EF361E3E977}|4 Aug 2026\\4 Aug 2026.csproj|solutionrelative:4 aug 2026\\4 aug 2026.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30B10919-43F3-35CC-AF8C-3EF361E3E977}|4 Aug 2026\\4 Aug 2026.csproj|c:\\users\\armaan gupta\\source\\repos\\4 aug 2026\\4 aug 2026\\services\\studentservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30B10919-43F3-35CC-AF8C-3EF361E3E977}|4 Aug 2026\\4 Aug 2026.csproj|solutionrelative:4 aug 2026\\services\\studentservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "4 Aug 2026.csproj",
+              "DocumentMoniker": "C:\\Users\\Armaan Gupta\\source\\repos\\4 Aug 2026\\4 Aug 2026\\4 Aug 2026.csproj",
+              "RelativeDocumentMoniker": "4 Aug 2026\\4 Aug 2026.csproj",
+              "ToolTip": "C:\\Users\\Armaan Gupta\\source\\repos\\4 Aug 2026\\4 Aug 2026\\4 Aug 2026.csproj",
+              "RelativeToolTip": "4 Aug 2026\\4 Aug 2026.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-08-05T18:12:25.489Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Armaan Gupta\\source\\repos\\4 Aug 2026\\4 Aug 2026\\Program.cs",
+              "RelativeDocumentMoniker": "4 Aug 2026\\Program.cs",
+              "ToolTip": "C:\\Users\\Armaan Gupta\\source\\repos\\4 Aug 2026\\4 Aug 2026\\Program.cs",
+              "RelativeToolTip": "4 Aug 2026\\Program.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwCQAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-05T18:06:34.825Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StudentServices.cs",
+              "DocumentMoniker": "C:\\Users\\Armaan Gupta\\source\\repos\\4 Aug 2026\\4 Aug 2026\\Services\\StudentServices.cs",
+              "RelativeDocumentMoniker": "4 Aug 2026\\Services\\StudentServices.cs",
+              "ToolTip": "C:\\Users\\Armaan Gupta\\source\\repos\\4 Aug 2026\\4 Aug 2026\\Services\\StudentServices.cs",
+              "RelativeToolTip": "4 Aug 2026\\Services\\StudentServices.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAqwDsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-05T17:54:56.089Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "C:\\Users\\Armaan Gupta\\source\\repos\\4 Aug 2026\\4 Aug 2026\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "4 Aug 2026\\Controllers\\StudentController.cs",
+              "ToolTip": "C:\\Users\\Armaan Gupta\\source\\repos\\4 Aug 2026\\4 Aug 2026\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "4 Aug 2026\\Controllers\\StudentController.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAuwEEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-05T17:49:44.671Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

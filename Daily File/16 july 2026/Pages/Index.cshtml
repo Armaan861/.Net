@@ -1,0 +1,33 @@
+﻿u@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Home page";
+}
+
+<div class="text-center mb-4">
+    <h1 class="display-4">Welcome Student Portal</h1>
+</div>
+
+<div class="container">
+    <table class="table table-bordered table-striped table-hover">
+        <thead class="table-dark">
+            <tr>
+                <th>Student ID</th>
+                <th>Age</th>
+                <th>Student Name</th>
+                <th>Course</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model.Students)
+            {
+                <tr>
+                    <td>@item.ID</td>
+                    <td>@item.Age</td>
+                    <td>@item.Name</td>
+                    <td>@item.Course</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>
