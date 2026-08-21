@@ -1,0 +1,35 @@
+﻿@model aug_17_mvc.Models.Department
+
+@{
+    ViewData["Title"] = "Create Department";
+}
+
+<h1>Create Department</h1>
+
+<form asp-action="Create" method="post">
+
+    <div class="mb-3">
+        <label asp-for="DepartmentName" class="form-label"></label>
+
+        <input asp-for="DepartmentName"
+               class="form-control" />
+    </div>
+
+    <div class="mb-3">
+        <label asp-for="Description" class="form-label"></label>
+
+        <textarea asp-for="Description"
+                  class="form-control">
+        </textarea>
+    </div>
+
+    <button type="submit" class="btn btn-success">
+        Save
+    </button>
+
+    <a asp-action="Index"
+       class="btn btn-secondary">
+        Back
+    </a>
+
+</form>

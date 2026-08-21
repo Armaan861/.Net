@@ -1,0 +1,65 @@
+﻿@model aug_17_mvc.Models.Doctor
+
+@{
+    ViewData["Title"] = "Delete Doctor";
+}
+
+<h1>Delete Doctor</h1>
+
+<div class="alert alert-danger">
+    Are you sure you want to delete this doctor?
+</div>
+
+<div class="card">
+    <div class="card-body">
+
+        <p>
+            <strong>Doctor Id:</strong>
+            @Model.DoctorId
+        </p>
+
+        <p>
+            <strong>Name:</strong>
+            @Model.Name
+        </p>
+
+        <p>
+            <strong>Specialization:</strong>
+            @Model.Specialization
+        </p>
+
+        <p>
+            <strong>Email:</strong>
+            @Model.Email
+        </p>
+
+        <p>
+            <strong>Phone:</strong>
+            @Model.Phone
+        </p>
+
+        <p>
+            <strong>Department Id:</strong>
+            @Model.DepartmentId
+        </p>
+
+        <form asp-action="Delete" method="post">
+
+            <input type="hidden"
+                   name="id"
+                   value="@Model.DoctorId" />
+
+            <button type="submit"
+                    class="btn btn-danger">
+                Delete
+            </button>
+
+            <a asp-action="Index"
+               class="btn btn-secondary">
+                Cancel
+            </a>
+
+        </form>
+
+    </div>
+</div>

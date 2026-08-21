@@ -1,0 +1,50 @@
+﻿@model aug_17_mvc.Models.Department
+
+@{
+    ViewData["Title"] = "Delete Department";
+}
+
+<h1>Delete Department</h1>
+
+<div class="alert alert-danger">
+    Are you sure you want to delete this department?
+</div>
+
+<div class="card">
+    <div class="card-body">
+
+        <p>
+            <strong>Department Id:</strong>
+            @Model.DepartmentId
+        </p>
+
+        <p>
+            <strong>Department Name:</strong>
+            @Model.DepartmentName
+        </p>
+
+        <p>
+            <strong>Description:</strong>
+            @Model.Description
+        </p>
+
+        <form asp-action="Delete" method="post">
+
+            <input type="hidden"
+                   name="id"
+                   value="@Model.DepartmentId" />
+
+            <button type="submit"
+                    class="btn btn-danger">
+                Delete
+            </button>
+
+            <a asp-action="Index"
+               class="btn btn-secondary">
+                Cancel
+            </a>
+
+        </form>
+
+    </div>
+</div>

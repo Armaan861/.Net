@@ -1,0 +1,80 @@
+﻿@model aug_17_mvc.Models.Doctor
+
+@{
+    ViewData["Title"] = "Doctor Details";
+}
+
+<h1>Doctor Details</h1>
+
+<div class="card">
+    <div class="card-body">
+
+        <h4>Doctor Information</h4>
+
+        <hr />
+
+        <dl class="row">
+
+            <dt class="col-sm-3">
+                Doctor Id
+            </dt>
+
+            <dd class="col-sm-9">
+                @Model.DoctorId
+            </dd>
+
+            <dt class="col-sm-3">
+                Name
+            </dt>
+
+            <dd class="col-sm-9">
+                @Model.Name
+            </dd>
+
+            <dt class="col-sm-3">
+                Specialization
+            </dt>
+
+            <dd class="col-sm-9">
+                @Model.Specialization
+            </dd>
+
+            <dt class="col-sm-3">
+                Email
+            </dt>
+
+            <dd class="col-sm-9">
+                @Model.Email
+            </dd>
+
+            <dt class="col-sm-3">
+                Phone
+            </dt>
+
+            <dd class="col-sm-9">
+                @Model.Phone
+            </dd>
+
+            <dt class="col-sm-3">
+                Department Id
+            </dt>
+
+            <dd class="col-sm-9">
+                @Model.DepartmentId
+            </dd>
+
+        </dl>
+
+        <a asp-action="Edit"
+           asp-route-id="@Model.DoctorId"
+           class="btn btn-warning">
+            Edit
+        </a>
+
+        <a asp-action="Index"
+           class="btn btn-secondary">
+            Back
+        </a>
+
+    </div>
+</div>

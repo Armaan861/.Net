@@ -1,0 +1,45 @@
+﻿@model aug_17_mvc.Models.Department
+
+@{
+    ViewData["Title"] = "Edit Department";
+}
+
+<h1>Edit Department</h1>
+
+<form asp-action="Edit"
+      asp-route-id="@Model.DepartmentId"
+      method="post">
+
+    <input type="hidden"
+           asp-for="DepartmentId" />
+
+    <div class="mb-3">
+        <label asp-for="DepartmentName"
+               class="form-label">
+        </label>
+
+        <input asp-for="DepartmentName"
+               class="form-control" />
+    </div>
+
+    <div class="mb-3">
+        <label asp-for="Description"
+               class="form-label">
+        </label>
+
+        <textarea asp-for="Description"
+                  class="form-control">
+        </textarea>
+    </div>
+
+    <button type="submit"
+            class="btn btn-primary">
+        Update
+    </button>
+
+    <a asp-action="Index"
+       class="btn btn-secondary">
+        Back
+    </a>
+
+</form>
